@@ -46,13 +46,15 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats  
+ 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="160"/>
-</p>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=itsrowdy01&show_icons=true&theme=tokyonight" height="160"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrowdy01&theme=tokyonight" height="160"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrowdy01&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
